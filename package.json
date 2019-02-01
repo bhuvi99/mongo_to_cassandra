@@ -1,0 +1,17 @@
+{
+  "name": "mongo_to_cassandra",
+  "version": "1.0.0",
+  "description": "copying data from mongodb collection to cassandra table",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhuvanachandu Midatha",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
